@@ -7,5 +7,5 @@
 🌺 Let's solve problems practically and design solutions attractively<br/>
 
 
-「いろはの徳はむりやふたり、つかふときはたいせつに。」－泉鏡花
+「いろはの徳はむりやふたり、つかふときはたいせつに。」－泉鏡花<br/>
  "The power of language is boundless; use it with care." -Izumi Kyouka

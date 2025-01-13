@@ -1,7 +1,5 @@
 ### Initializing profile... 100% loaded. Welcome, human. 
 
-[![](https://visitcount.itsvg.in/api?id=weiraven&icon=6&color=1)](https://visitcount.itsvg.in)
-
 ### About Me
 🏞️ Software Engineering student chronicling things-learned in tech<br/>
 🎓 Studying Computer Science at the University of North Carolina at Charlotte<br/>

@@ -1,10 +1,10 @@
 ### Initializing profile... 100% loaded. Welcome, human. 
 
 ### About Me
-🏞️ Software Engineering student chronicling things-learned in tech<br/>
-🎓 Studying Computer Science at the University of North Carolina at Charlotte<br/>
+🏞️ SWE student chronicling things-learned in tech<br/>
+🎓 Studied Computer Science at the UNC Charlotte<br/>
 🎨 Wanted to be an artist but have Asian parents<br/>
-📚 Currently enhancing my learning by tutoring & mentoring fellow CS undergrads<br/>
+📚 Currently enhancing my learning by tutoring & mentoring CS undergrads<br/>
 🌺 Let's solve problems practically and build solutions attractively!<br/>
 
 ### Tech Stack

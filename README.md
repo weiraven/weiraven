@@ -1,10 +1,10 @@
 ### Initializing profile... 100% loaded. Welcome, human. 
 
 ### About Me
-🏞️ SWE student chronicling things-learned in tech<br/>
-🎓 Studied Computer Science at the UNC Charlotte<br/>
-🎨 Wanted to be an artist but have Asian parents<br/>
-📚 Enhancing my learning by tutoring other CS students<br/>
+🏞️ SWE chronicling things-learned in tech<br/>
+🎓 Obtained BS in Computer Science from UNC Charlotte<br/>
+🎨 Wanted to be an artist at one point but has Asian parents<br/>
+📚 Augmenting learning through tutoring other CS students<br/>
 🌺 Let's solve problems practically and build solutions attractively!<br/>
 
 ### Tech Stack

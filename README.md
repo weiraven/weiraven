@@ -4,7 +4,7 @@
 🏞️ SWE student chronicling things-learned in tech<br/>
 🎓 Studied Computer Science at the UNC Charlotte<br/>
 🎨 Wanted to be an artist but have Asian parents<br/>
-📚 Currently enhancing my learning by tutoring & mentoring CS undergrads<br/>
+📚 Enhancing my learning by tutoring other CS students<br/>
 🌺 Let's solve problems practically and build solutions attractively!<br/>
 
 ### Tech Stack

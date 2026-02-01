@@ -1,6 +1,5 @@
 ### Initializing profile... 100% loaded. Welcome, human. 
 
-### About Me
 🏞️ SWE chronicling my journey in tech<br/>
 🎨 Wanted to be an artist but have Asian parents<br/>
 📚 Augmenting my own learning through tutoring others<br/>
